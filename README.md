@@ -1,2 +1,2 @@
-# luafex
-A system fetch tool written in Lua
+# fex
+A system fetch tool written in Java
