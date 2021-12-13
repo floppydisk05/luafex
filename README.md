@@ -1,2 +1,2 @@
 # fex
-A system fetch tool written in something
+A system fetch tool written in something that isnt java
